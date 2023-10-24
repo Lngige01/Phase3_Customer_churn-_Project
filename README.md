@@ -1,9 +1,9 @@
 **PHASE 3 PROJECT**
 
 
-**SYRIATEL CUSTOMER CHURN**
+## SYRIATEL CUSTOMER CHURN
 
-*Student: Lilian Ngige*
+**Student: Lilian Ngige**
 
 **Project Overview**
 
